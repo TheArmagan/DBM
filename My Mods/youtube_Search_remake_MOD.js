@@ -6,7 +6,7 @@ module.exports = {
     // This is the name of the action displayed in the editor.
     //---------------------------------------------------------------------
     
-    name: "Youtube Search Remake",
+    name: "Youtube Search",
     
     //---------------------------------------------------------------------
     // DBM Mods Manager Variables (Optional but nice to have!)
