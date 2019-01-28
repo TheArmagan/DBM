@@ -22,7 +22,7 @@ module.exports = {
         version: "1.0.0", //Added in 1.8.7
     
         // A short description to show on the mod line for this mod (Must be on a single line)
-        short_description: "Provides information about the YouTube URL that a user enters.",
+        short_description: "Provides information about the YouTube Name that a user enters.",
     
         // If it depends on any other mods by name, ex: WrexMODS if the mod uses something from WrexMods
     
