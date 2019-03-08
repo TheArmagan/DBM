@@ -90,7 +90,7 @@ module.exports = {
 	// are also the names of the fields stored in the action's JSON data.
 	//---------------------------------------------------------------------
 
-	fields: ["storage", "varName", "info", "storage2", "varName2", "iffalse", "iffalseVal"],
+	fields: ["storage", "varName", "info", "storage2", "varName2"],
 
 	//---------------------------------------------------------------------
 	// Command HTML
